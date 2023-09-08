@@ -1,0 +1,19 @@
+.ConatinerHome{
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+}
+
+.LeftHome{
+    width: 50%;
+}
+
+.RightHome{
+    width: 50%;
+}
+
+.btnSet{
+    display: flex;
+    justify-content: space-evenly;
+}
+
